@@ -25,6 +25,14 @@ I'm Menna Haleem, a passionate data science and AI enthusiast, currently serving
 🔹 Notebooks contain clean, well-commented code with step-by-step explanations.
 
 ---
+## 📁 Repository Contents
+
+| Folder/File Name         | Description |
+|--------------------------|-------------|
+| `notebooks/`             | Jupyter notebooks covering machine learning, data preprocessing, EDA, deep learning, etc. |
+| `presentations/`         | Slide decks used in training sessions and internal knowledge sharing. |
+
+---
 
 ## 📬 Contact
 
