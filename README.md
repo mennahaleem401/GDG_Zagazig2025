@@ -39,7 +39,7 @@ I'm Menna Haleem, a passionate data science and AI enthusiast, currently serving
 
 - 📧 Email: mennahaleem401@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/menna-haleem](https://www.linkedin.com/in/menna-haleem)
-- 🖥️ Portfolio: [MENNA HALEEM](https://github.com/mennahaleem401)
+- 🖥️ Portfolio: [MENNA HALEEM](https://mennahaleem401.github.io/My-Portfolio/)
 
 ---
 
