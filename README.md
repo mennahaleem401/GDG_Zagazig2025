@@ -11,7 +11,7 @@ I'm Menna Haleem, a passionate data science and AI enthusiast, currently serving
 - Designing and delivering training sessions and technical workshops
 - Contributing to real-world data projects and case studies
 - Developing data science notebooks and pipelines
-- Leading sessions on machine learning, data visualization, and data engineering concepts
+- Led training sessions on machine learning algorithms such as KNN and SVM
 
 ---
 
@@ -31,6 +31,7 @@ I'm Menna Haleem, a passionate data science and AI enthusiast, currently serving
 |--------------------------|-------------|
 | `notebooks/`             | Jupyter notebooks covering machine learning, data preprocessing, EDA, deep learning, etc. |
 | `presentations/`         | Slide decks used in training sessions and internal knowledge sharing. |
+| `Records/`         | Sessions I taught to the members |
 
 ---
 
